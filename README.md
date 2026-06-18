@@ -4,15 +4,14 @@ Repositório dedicado ao armazenamento e documentação de fluxos de automação
 
 ---
 
-## 🚀 Automação: [Cole o Nome da Sua Automação Aqui, ex: Integração de Leads]
+## 🚀 Automação: Criação de campanhas de Email Marketing para o RD Station
 
 ### 📝 Descrição do Cenário
-[Explique em duas linhas o que a automação faz. Ex: Este fluxo captura automaticamente dados recebidos via formulário, realiza um tratamento nas informações e distribui para uma planilha de controle e plataforma de e-mail marketing.]
+O fluxo captura na planilha os dados de modelo da campanha, link do site, o idioma e pais que será gerada a campanha e envia os dados parao Gemini Ai gere a campanha com o assunto, body em html e UTM modificada. Depois os dados ficam na aba seguinte da planilha mostrando os resultados
 
 ### 🛠️ Ferramentas & Tecnologias Utilizadas
 * **Plataforma de Integração:** Make (Integromat)
-* **Gatilho (Trigger):** [Ex: Webhooks / Google Forms / Typeform]
-* **Ações (Actions):** [Ex: Google Sheets, ActiveCampaign, RD Station, Slack]
+* **Ações (Actions):** Google Sheets, RD Station
 * **Formatos de Dados:** JSON / APIs REST
 
 ### 📊 Estrutura Lógica do Fluxo
