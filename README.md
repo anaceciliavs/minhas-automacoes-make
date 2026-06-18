@@ -16,8 +16,7 @@ Repositório dedicado ao armazenamento e documentação de fluxos de automação
 * **Formatos de Dados:** JSON / APIs REST
 
 ### 📊 Estrutura Lógica do Fluxo
-*(Substitua a linha abaixo pelo print do seu fluxo no Make)*
-![Fluxo da Automação](https://via.placeholder.com/800x400.png?text=Insira+Aqui+o+Print+do+Seu+Fluxo)
+<img width="1595" height="772" alt="image" src="https://github.com/user-attachments/assets/7a613f4e-3a0c-4642-949c-5ccb75d61d65" />
 
 ### 📥 Como Importar este Cenário
 1. Faça o download do arquivo `.json` presente neste repositório.
